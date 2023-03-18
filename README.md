@@ -6,5 +6,6 @@
  </p>
 <br/>
 
-
+<p align="center">
 ![](https://komarev.com/ghpvc/?username=vandavision&label=PROFILE+VIEWS)
+</p>
