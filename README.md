@@ -119,11 +119,6 @@
 
 
 <p align="center">
-<a href="https://github.com/vandavision?tab=following"><img src="https://img.shields.io/github/stars/vandavision?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-</p>
-
-
-<p align="center">
 <a href="https://gist.github.com/vandavision"><img src="https://profile-counter.glitch.me/{vandavision}/count.svg" alt="vandavision :: Visitor's Count" /></a>
 </p>
 
