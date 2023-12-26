@@ -120,7 +120,6 @@
 
 <p align="center">
 <a href="https://github.com/vandavision?tab=following"><img src="https://img.shields.io/github/stars/vandavision?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&label=Total%20user%20stars%20in%20all%20repo&logoColor=red&style=social" alt="GitHub User's stars"></a>
-<a href="https://github.com/vandavision?tab=followers"><img src="https://img.shields.io/github/followers/vandavision?&logoColor=red&style=social" alt="GitHub followers"></a>
 </p>
 
 
