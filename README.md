@@ -124,11 +124,11 @@
 <!-- activity graph heroku-app end -->
 
 
-<p align="center">
+<!-- <p align="center">
 <a href="https://wakatime.com/@vandavision"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Goblin&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="@Goblin's wakatime stats"/></a>
 <a href="https://github.com/vandavision?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=vandavision&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@Goblin's trophy stats"/></a>
 </p>
-
+ -->
 
 <a href="https://rextester.com/l/python3_online_compiler"><img src="./assets/colored.png"  width="100%" alt="python3_online_compiler"/></a>
 
