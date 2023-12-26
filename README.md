@@ -1,4 +1,4 @@
-# Hello! 👋 Who am I? #
+# Who am I? #
 <div>
 <br/>
 <p align="center">
